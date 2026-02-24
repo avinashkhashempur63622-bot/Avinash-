@@ -110,7 +110,7 @@
 </div>
 
 <footer>
-    <p>© 2026 AgriGrow | Created by Avinash | BSc Agriculture</p>
+    <p>© 2026 AgriGrow | Created by Avinash |Agriculture</p>
 </footer>
 
 </body>
